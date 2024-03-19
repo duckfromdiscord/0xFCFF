@@ -1,0 +1,19 @@
+{
+    "system": "NDS",
+    "hashes": [
+
+    ],
+    "names": [
+
+    ],
+    "default_info": {"artist": "Game Freak", "album": "Pokémon Diamond, Pearl & Platinum"},
+    "addr": "0x1C3D84",
+    "songs": {
+        "1004": {"title": "Twinleaf Town"}
+    },
+    "note": [
+        "Song IDs taken from https://www.supercheats.com/nintendods/pokemon-platinum/9717/ar-codes/music-modifier/",
+        "It seems like they apply to Pearl at least to some extent",
+        "I prefer to use the album names from khinsider since I wrote the connector for it in Web Scrobbler"
+    ]
+}
